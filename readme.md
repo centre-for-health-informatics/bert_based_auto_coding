@@ -28,7 +28,7 @@ sys.path.append('path_to_ClarityNLP/ClarityNLP/')
 ```
 
 ### Model
-[Model_Illustration](./illustration_of_model.png)
+![Model_Illustration](./illustration_of_model.png)
 
 I merged HAN (hierarchical attention networks) and bert. It's like stack another bert model on the original bert, which only has sentence-level attention.
 
